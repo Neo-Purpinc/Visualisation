@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/DrawSampling.dir/draw_sampling.cpp.o -o DrawSampling  ../easycppogl/libeasycppogl.a /usr/local/lib/libglfw3.a -lm -ldl -lX11 /usr/lib/x86_64-linux-gnu/libassimp.so.5.2.0 -lz /usr/lib/x86_64-linux-gnu/libdraco.so.4.0.0 -lminizip -Wl,-Bstatic -lrt -Wl,-Bdynamic -ldl -ldl -lpthread 
